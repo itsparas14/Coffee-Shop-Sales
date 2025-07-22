@@ -23,7 +23,7 @@ The dashboard improves reporting efficiency and provides decision-makers with fa
 
 Files Included:
 
-- Coffee_Shop_Dashboard.xlsx – Main project file
+- Main project file : (https://github.com/itsparas14/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.xlsx)
 - README.md – This documentation
 
 Next Steps:
