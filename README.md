@@ -34,3 +34,4 @@ I plan to further enhance the project by adding:
 - Export to PDF functionality with one click (via VBA)
 
 Preveiw:
+https://github.com/itsparas14/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20SS.png
